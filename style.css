@@ -1,0 +1,13 @@
+table, th, td{
+    width: fit-content;
+    border: 3px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: rgb(157, 168, 208);
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    
+}
